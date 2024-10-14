@@ -31,6 +31,7 @@ public class Main {
                 System.out.println("¿Deseas hacer otra conversión? ingrese 0 para salir, 1 para seguir con la misma moneda y 2 para continuar ");
                 salirApp = lectura.nextInt();
                 lectura.nextLine();
+
             }
         }
 
